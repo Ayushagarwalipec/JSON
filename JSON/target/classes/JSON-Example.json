@@ -1,0 +1,19 @@
+{    "firstName":"AYUSH"
+     "lastName": "AGARWAl",
+    "address":{
+        "streetAddress":"21 2nd Street",
+         "city":"BULANDSHAHR",
+         "state":"UP",
+         "postalCode":203401
+    },
+     "age":25,
+     "phoneNumbers":[
+            {
+            "type":"home", "number":"000000000"
+            },
+         {
+            "type":"fax", "number":"12345678"
+         }
+     ],
+     
+}
